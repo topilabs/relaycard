@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name relay_IKM)(type KiCad)(uri "/Library/Application Support/kicad/library/A_IKM_userlib/relay_IKM.pretty")(options "")(descr ""))
+  (lib (name dsub_IKM)(type KiCad)(uri "/Library/Application Support/kicad/library/A_IKM_userlib/dsub_IKM.pretty")(options "")(descr ""))
 )

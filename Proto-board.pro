@@ -1,4 +1,4 @@
-update=Tuesday, April 24, 2018 'PMt' 05:55:50 PM
+update=Wednesday, June 13, 2018 'AMt' 10:45:07 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=../../../../../../Library/Application Support/kicad/library/A_IKM_userlib
@@ -62,13 +72,3 @@ LibName30=texas_IKM
 LibName31=coto_IKM
 LibName32=xilinx_IKM
 LibName33=maxim_integrated_IKM
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
